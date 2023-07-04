@@ -1,4 +1,5 @@
 #puroguraming1
+# 教科書 課題
 # 第1章　Pythonの基本
 * 1.1 Pythonとその特徴
 * 1.2 コードの実行方法
@@ -71,8 +72,3 @@
 * 8.8 sqlite3
 * 8.9 decimal
 * 8.10 logging
-# Appendix
-* A.1 コンピュータの基本
-* A.2 Pythonのセットアップ
-* A.3 用語集
-* A.4 さらに学んでいくために
