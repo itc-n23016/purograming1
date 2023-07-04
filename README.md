@@ -1,4 +1,4 @@
-#puroguraming1
+# puroguraming1
 ## 教科書 課題
 ### 第1章　Python **の基本**
 * 1.1 Pythonとその特徴
